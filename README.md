@@ -1,1 +1,1 @@
-ASA DataFest 2024 UWaterloo Code 
+ASA DataFest 2024 University of Waterloo code 
